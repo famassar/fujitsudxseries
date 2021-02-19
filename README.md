@@ -1,7 +1,7 @@
 # fujitsudxseries
 Template Zabbix for Fujitsu Storages DX series
 
-Tested with Zabbix 5.0 and MIB R153
+Tested with Zabbix 5.0 and MIB R153 on DX100 and DX200
 
 Features:
 
