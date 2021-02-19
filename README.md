@@ -6,7 +6,7 @@ Tested with Zabbix 5.0 and MIB R153
 Features:
 
 - Fixed items for generic values
-- Autodicovery functions for CM Memory, CPU, Disks, PSU, Raid, Temperature, Volumes
+- Autodsicovery functions for CM Memory, CPU, Disks, PSU, Raid, Temperature, Volumes
 
 1) Determine which MIB you have (this is also in the name of mib file, 
 i.e "FJDARY-E153.MIB" says the versioni is 153)
