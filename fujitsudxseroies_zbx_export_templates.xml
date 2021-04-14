@@ -441,7 +441,7 @@ The vendor's authoritative identification of the network management subsystem co
                 <discovery_rule>
                     <name>Raid</name>
                     <type>SNMP_AGENT</type>
-                    <snmp_oid>discovery[{#RAID_CAPACITY_HIT}, {$BASE_OID}.14.3.2.1.4, {#RAID_LEVEL_HIT}, {$BASE_OID}.14.3.2.1.3, {#RAID_STATUS_HIT}, 1{$BASE_OID}.14.3.2.1.2]</snmp_oid>
+                    <snmp_oid>discovery[{#RAID_CAPACITY_HIT}, {$BASE_OID}.14.3.2.1.4, {#RAID_LEVEL_HIT}, {$BASE_OID}.14.3.2.1.3, {#RAID_STATUS_HIT}, {$BASE_OID}.14.3.2.1.2]</snmp_oid>
                     <key>snmp.discovery.raid</key>
                     <delay>3600</delay>
                     <filter>
